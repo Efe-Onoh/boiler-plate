@@ -1,0 +1,4 @@
+# ignore .cwd
+.cwd
+# ignore .next_command
+.next_command
